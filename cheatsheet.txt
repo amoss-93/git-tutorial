@@ -1,0 +1,10 @@
+1. git clone
+2. git branch
+3. git checkout
+4. git status
+5. git add
+6. git commit
+7. git push
+8. git pull
+9. git revert
+10. git merge
